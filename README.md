@@ -42,7 +42,7 @@ Machine learning techniques are summarized into following categories and sub-cat
 ## Citing
 
 ```
-@inproceedings{shah2022gnm,
+@inproceedings{jingwora,
    author    = {Kritdikoon Woraitthinan and Hiraku Matsuoka},
    title     = {{Comprehensive Study of DNA, RNA and Protein Measurements co-vary Predictive Machine Learning Techniques in Single Cells}},
    year      = {2023},
