@@ -12,6 +12,10 @@ This repository contains data and code for Comprehensive Study of DNA, RNA &amp;
 
 - `./scripts/figure.ipynb`: reproduction of all figures.
 
+## Solutions
+
+Top ranked solutions and codes:
+
 | Rank |           Team            |  Score   | Solutions                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 | :--: | :-----------------------: | :------: | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |  1   |      🥇Shuji Suzuki       | 0.77569  | [📘 Solution] (https://www.kaggle.com/competitions/open-problems-multimodal/discussion/366961) <br> [🔗 Github] (https://github.com/shu65/open-problems-multimodal)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
@@ -28,3 +32,14 @@ This repository contains data and code for Comprehensive Study of DNA, RNA &amp;
 |  12  |             Q             | 0.771556 | [📘 Solution](https://www.kaggle.com/competitions/open-problems-multimodal/discussion/366504)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 
 📘 Solution 📕 Code 🔗 Github
+
+## Citing
+
+```
+@inproceedings{shah2022gnm,
+   author    = {Kritdikoon Woraitthinan and Hiraku Matsuoka},
+   title     = {{Comprehensive Study of DNA, RNA and Protein Measurements co-vary Predictive Machine Learning Techniques in Single Cells}},
+   year      = {2023},
+   url      = {}
+}
+```
