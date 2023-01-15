@@ -37,7 +37,7 @@ Top ranked solutions and codes of [Open Problems - Multimodal Single-Cell Integr
 
 Machine learning techniques are summarized into following categories and sub-categories:
 
-![](img\Machine-Learning-Technique-Categories.png | width=100)
+![](https://raw.githubusercontent.com/jingwora/Comprehensive-Study-of-DNA-RNA-Protein-Measurements-co-vary-Predictive-Machine-Learning-Technique/main/img/Machine-Learning-Technique-Categories.png)
 
 ## Citing
 
