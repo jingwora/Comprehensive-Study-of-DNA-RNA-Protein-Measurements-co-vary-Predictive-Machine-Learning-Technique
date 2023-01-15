@@ -33,6 +33,12 @@ Top ranked solutions and codes of [Open Problems - Multimodal Single-Cell Integr
 
 📘 Solution 📕 Code 🔗 Github
 
+## Machine Learning Technique Categories and Sub-categories
+
+Machine learning techniques are summarized into following categories and sub-categories:
+
+![](img\Machine-Learning-Technique-Categories.png | width=100)
+
 ## Citing
 
 ```
