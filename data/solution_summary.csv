@@ -30,14 +30,14 @@ Multiome,Features pre-processing,Feature reduction,QuantiledPCA,,,,,,,,,,
 Multiome,Features pre-processing,Feature reduction,tSVD,○,,○,○,,○,,,○,
 Multiome,Features pre-processing,Feature reduction,Factor analysis,,,,,,,,,,
 Multiome,Features pre-processing,Feature reduction,Denoise autoencoder,,,,,,○,,,,
-Multiome,Features pre-processing,Feature reduction,Non-negative matrix factorization(NMF) ,,,,,,,,,,○
+Multiome,Features pre-processing,Feature reduction,Non-negative matrix factorization (NMF) ,,,,,,,,,,○
 Multiome,Features pre-processing,Feature reduction,Independent component analysis (ICA),,,,,,,,,,
 Multiome,Features pre-processing,Feature reduction,UMAP,,,,,,,,,,
-Multiome,Features pre-processing,Feature reduction,Highly correlated feature selection,,,,,○,,,,,
-Multiome,Features pre-processing,Feature reduction,Name matching importance,,,,,,,,,,○
-Multiome,Features pre-processing,Feature reduction,Random forest importance,,,,,,,,,,
-Multiome,Features pre-processing,Feature reduction,XGB feature importance,,,,,,,,,,
-Multiome,Features pre-processing,Feature reduction,LightGBM feature importance,,,,,,,,,,
+Multiome,Features pre-processing,Feature selection,Highly correlated feature selection,,,,,○,,,,,
+Multiome,Features pre-processing,Feature selection,Name matching importance,,,,,,,,,,○
+Multiome,Features pre-processing,Feature selection,Random forest importance,,,,,,,,,,
+Multiome,Features pre-processing,Feature selection,XGB feature importance,,,,,,,,,,
+Multiome,Features pre-processing,Feature selection,LightGBM feature importance,,,,,,,,,,
 Multiome,Models,Neural network,Dense,○,○,○,○,○,○,○,○,,
 Multiome,Models,Neural network,RESTNET,,,,,,,,○,,
 Multiome,Models,Neural network,Online,,,,,,,,,,
@@ -96,14 +96,14 @@ CITEseq,Features pre-processing,Feature reduction,QuantiledPCA,,,,,,○,,,,
 CITEseq,Features pre-processing,Feature reduction,tSVD,○,○,,○,,○,,,○,
 CITEseq,Features pre-processing,Feature reduction,Factor analysis,,○,,,,,,,,○
 CITEseq,Features pre-processing,Feature reduction,Denoise autoencoder,,,,,,○,,,,
-CITEseq,Features pre-processing,Feature reduction,Non-negative matrix factorization(NMF) ,,,,,,,,,,○
+CITEseq,Features pre-processing,Feature reduction,Non-negative matrix factorization (NMF) ,,,,,,,,,,○
 CITEseq,Features pre-processing,Feature reduction,Independent component analysis (ICA),,,,,,,,,,○
 CITEseq,Features pre-processing,Feature reduction,UMAP,,,,○,,,,,,
-CITEseq,Features pre-processing,Feature reduction,Highly correlated feature selection,○,○,,○,,,,,,
-CITEseq,Features pre-processing,Feature reduction,Name matching importance,,,,○,,○,,,,○
-CITEseq,Features pre-processing,Feature reduction,Random forest importance,,,,○,,,,,,
-CITEseq,Features pre-processing,Feature reduction,XGB feature importance,,,,,,○,,,○,
-CITEseq,Features pre-processing,Feature reduction,LightGBM feature importance,,,,,,,,,,
+CITEseq,Features pre-processing,Feature selection,Highly correlated feature selection,○,○,,○,,,,,,
+CITEseq,Features pre-processing,Feature selection,Name matching importance,,,,○,,○,,,,○
+CITEseq,Features pre-processing,Feature selection,Random forest importance,,,,○,,,,,,
+CITEseq,Features pre-processing,Feature selection,XGB feature importance,,,,,,○,,,○,
+CITEseq,Features pre-processing,Feature selection,LightGBM feature importance,,,,,,,,,,
 CITEseq,Models,Neural network,Dense,○,,○,,○,○,○,○,○,
 CITEseq,Models,Neural network,RESTNET,,,,,,,,○,,
 CITEseq,Models,Neural network,Online,,,,○,,,,,,
