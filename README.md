@@ -1,4 +1,4 @@
-# Comprehensive-Study-of-DNA-RNA-Protein-Measurements-co-vary-Predictive-Machine-Learning-Technique
+# Comprehensive Study of DNA RNA and Protein Measurements using Predictive Machine Learning Techniques in Single Cells
 
 [Project Page]() | [arXiV]()
 
