@@ -1,8 +1,8 @@
 # Comprehensive Study of DNA RNA and Protein Measurements using Predictive Machine Learning Techniques in Single Cells
 
-[Project Page]() | [arXiV]()
+[bioRxiv](https://submit.biorxiv.org/submission/pdf?msid=BIORXIV/2023/531157)
 
-#### Kritdikoon Woraitthinan, Hiraku Matsuoka
+#### Kritdikoon Woraitthinan, Hiraku Matsuoka and Jun Takayama
 
 ## Overview
 
@@ -43,7 +43,7 @@ Machine learning techniques are summarized into following categories and sub-cat
 
 ```
 @inproceedings{jingwora,
-   author    = {Kritdikoon Woraitthinan and Hiraku Matsuoka},
+   author    = {Kritdikoon Woraitthinan, Hiraku Matsuoka and Jun Takayama},
    title     = {{Comprehensive Study of DNA, RNA and Protein Measurements co-vary Predictive Machine Learning Techniques in Single Cells}},
    year      = {2023},
    url      = {}
